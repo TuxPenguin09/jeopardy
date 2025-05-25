@@ -1,0 +1,46 @@
+{
+  "categories": {
+    "General": [
+      {
+        "question": "How many continents are there?",
+        "answer": ["7", "seven"]
+      },
+      {
+        "question": "What is the capital of the Philippines?",
+        "answer": ["Manila"]
+      },
+      {
+        "question": "What color do you get by mixing red and white?",
+        "answer": ["pink"]
+      }
+    ],
+    "Guess the movie by EMOJI": [
+      {
+        "question": "🤓⚡️🏰🦉🧹",
+        "answer": ["harry potter"]
+      },
+      {
+        "question": "👸👠🎃🐭🕛",
+        "answer": ["cinderella"]
+      },
+      {
+        "question": "🚢❄️💔🌊🧊",
+        "answer": ["titanic"]
+      }
+    ],
+    "iACADEMY": [
+      {
+        "question": "What city is our school located?",
+        "answer": ["Makati"]
+      },
+      {
+        "question": "In what year was iACADEMY established?",
+        "answer": ["2002"]
+      },
+      {
+        "question": "Who is the chairman of SOC?",
+        "answer": ["Sir Bennett", "Bennett Tanyag", "Sir Bennett Tanyag"]
+      }
+    ]
+  }
+}
